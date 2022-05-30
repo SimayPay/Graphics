@@ -105,6 +105,7 @@ int main()
     return 0;
 }
 
+
 int move(int x)
 {
     x += 10;
